@@ -1,7 +1,6 @@
 import "./App.css";
 import skyrim from "./assets/skyrim.png";
 import sky from "./assets/sky.png";
-import lis from "./assets/lis.png";
 import strongEnough from "./assets/strongEnough.png";
 import deSims from "./assets/deSims.png";
 import mines from "./assets/mines.png";
@@ -50,11 +49,6 @@ function App() {
     },
 
     {
-      name: "LIFE IS STRANGE",
-      img: lis,
-    },
-
-    {
       name: "THE SIMS",
       img: deSims,
     },
@@ -135,11 +129,6 @@ function App() {
     },
 
     {
-      name: "LIFE IS STRANGE",
-      img: lis,
-    },
-
-    {
       name: "THE SIMS",
       img: deSims,
     },
@@ -217,11 +206,6 @@ function App() {
     {
       name: "SKY",
       img: sky,
-    },
-
-    {
-      name: "LIFE IS STRANGE",
-      img: lis,
     },
 
     {
